@@ -1,3 +1,3 @@
-## Hi there
+# Hi there
 
-OpensourceSW lab 2-1!
+Open source SW lab 2-1!
